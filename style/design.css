@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: whitesmoke;
+}
+textarea{
+    width: 100%;
+    height: 300px;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+form{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    
+    padding: 10px;
+    margin-top: 20px;
+}
+input[type="text"]{
+    padding-left: 15px;
+    width: 250px;
+    height: 40px;
+    margin-top: 5px;
+}
+button{
+    width: 200px;
+    height: 40px;
+    outline: none;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    background: green;
+}
+#space{
+    padding-left: 40px;
+}
